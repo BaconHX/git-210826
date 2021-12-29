@@ -3,5 +3,6 @@ public class gitTest {
         System.out.println("nihao");
         System.out.println("aaa");
         System.out.println("master");
+        System.out.println("hot-fix");
     }
 }
